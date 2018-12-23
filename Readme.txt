@@ -2,7 +2,7 @@
 
 For Ateducom.
 
-Crawling Web site by node, python
+Crawling Web site by node, Node
 
 Add Firebase
 
